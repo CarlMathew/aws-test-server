@@ -12,5 +12,5 @@ app.get("/home", (req, res) => {
 });
 
 app.listen(port, "0.0.0.0", () => {
-  console.log(`Running in port ${port}`);
+  console.log(`Test Run, Running in port ${port}`);
 });
